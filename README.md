@@ -1,3 +1,3 @@
-# IST210-Final-Project-Main 
+# IST210-Assignments 
 
-Did a DBMS for a mock scenario of maintaining supplies for ChickFilas in the Centre County area.
+List of assignments completed in IST 210: Organization of Data, including final project for the class. Used draw.io and Google SQL Lite Server to handle most of the assignments.
